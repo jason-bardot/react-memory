@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://jason-bardot.github.io/react-memory/",
   "dependencies": {
+    "gh-pages": "^3.1.0",
     "lodash.shuffle": "^4.2.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
